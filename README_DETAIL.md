@@ -340,7 +340,7 @@ Several steps need workspace-specific values. Resource IDs from another workspac
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/SiddhantSuwarnkar/dpp-solution-accelerator.git
+git clone https://github.com/arunpune/dpp-solution-accelerator.git
 cd dpp-solution-accelerator
 ```
 
